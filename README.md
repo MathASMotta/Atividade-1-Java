@@ -16,10 +16,13 @@ ___
 
 1- Clone o repositório usando o comando:
   - git clone https://github.com/MathASMotta/Atividade-1-Java
+
 2- Navegue até o diretório do projeto:
   - cd Atividade-1-Java
+
 3- Compile os arquivos .java:
   - javac src/Main.java
+
 4- Execute o programa:
   - java src/Main
 ___
